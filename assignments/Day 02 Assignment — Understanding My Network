@@ -1,0 +1,24 @@
+1. What is a computer network?
+A computer network is a group of connected devices that share data and resources.
+2. Difference between a client and a server?
+A client requests services, while a server provides services to clients.
+3. What is a LAN?
+LAN (Local Area Network) connects devices within a small area, such as a home, office, or building.
+4. What is a WAN?
+WAN (Wide Area Network) connects networks over large geographical areas. The Internet is an example.
+5. Purpose of a switch?
+A switch connects devices within a local network and forwards data to the correct device.
+6. Purpose of a router?
+A router connects different networks and forwards data between them.
+7. What is a firewall?
+A firewall monitors and filters network traffic based on security rules.
+8. What is an IP address?
+An IP address identifies a device on an IP network so it can communicate with other devices.
+9. What is a MAC address?
+A MAC address is a hardware network address used to identify a network interface on a local network.
+10. What is a default gateway?
+A default gateway is the device, usually a router, that forwards traffic from a local network to other networks.
+11. What is DNS?
+DNS (Domain Name System) translates domain names, such as google.com, into IP addresses.
+12. Why is networking knowledge important for cybersecurity?
+It helps security professionals understand network traffic, detect suspicious activity, troubleshoot issues, and protect systems from attacks.
